@@ -1,5 +1,5 @@
 
-### Olá, eu sou Esley Leal ! 🤚 <br/>
+### Hello, I'm Esley Leal! 🤚 <br/>
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lealsantanaa/)
@@ -14,8 +14,7 @@
 <img alig="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div><br/>
 
-Sou um jovem apaixonado por tecnologia!
-
+I'm a young man passionate about technology!
 
 
 
