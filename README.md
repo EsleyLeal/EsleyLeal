@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Esley Leal, Desenvolvedor</h1>
 <h3 align="center">Codificando o futuro</h3> </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esleyleal&show_icons=true&locale=en" alt="esleyleal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esleyleal&show_icons=true&locale=en" alt="esleyleal" align="center" /></p>
 
 - 🔭 Atualmente estou trabalhando em [SuporteN1](https://github.com/EsleyLeal/suporteN1v)
 
