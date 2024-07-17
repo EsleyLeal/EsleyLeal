@@ -45,6 +45,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esleyleal&show_icons=true&locale=en&layout=compact" alt="esleyleal" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esleyleal&show_icons=true&locale=en&layout=compact" alt="esleyleal" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esleyleal&show_icons=true&locale=en" alt="esleyleal" /></p>
