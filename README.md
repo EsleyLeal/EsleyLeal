@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/EsleyLeal](https://github.com/EsleyLeal)
 
-- 📫 Como entrar em contato comigo **lealsantanti@gmail.com**
+- 📫 Como entrar em contato comigo **lealsantanati@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
