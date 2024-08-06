@@ -3,7 +3,8 @@
                                                                       
 - 🔭 Atualmente estou trabalhando em [SuporteN1](https://github.com/EsleyLeal/suporteN1v)
 
-- 🌱 Atualmente estou aprendendo **Java, Spring Boot**
+- 🌱 Atualmente estou aprendendo **Java, Spring Boot, Angula**
+- No curriculo, VueJS, HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP, LARAVEL, PYTHON
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/EsleyLeal](https://github.com/EsleyLeal)
 
