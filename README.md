@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Esley Leal, Desenvolvedor</h1>
 <h3 align="center">Codificando o futuro</h3> </br>
                                                                       
-- 🔭 Atualmente estou trabalhando em [SuporteN1](https://github.com/EsleyLeal/suporteN1v)
+- 🔭 Atualmente estou trabalhando em [SuporteN1](https://github.com/EsleyLeal/suporteN1v) e [SupTecnico](https://github.com/EsleyLeal/supTecnico)
 
 - 🌱 Atualmente aumentando meus conhecimentos em  **Java, Spring Boot, Angula**
 - No curriculo, VueJS, HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP, LARAVEL, PYTHON
