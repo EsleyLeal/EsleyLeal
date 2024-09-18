@@ -9,11 +9,12 @@
 
 - 📫 Como entrar em contato comigo **lealsantanati@gmail.com**
 
+  
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="[https://linkedin.com/in/esley-leal](https://www.linkedin.com/in/esleyleal/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" /></a>
-</p>
-<p align="left">
+  <a href="https://www.linkedin.com/in/esleyleal/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" />
+  </a>
 </p>
 
 <h3 align="left">Ferramentas:</h3>
