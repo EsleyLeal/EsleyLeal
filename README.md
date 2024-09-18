@@ -2,7 +2,8 @@
 <h3 align="center">Codificando o futuro</h3>
 
 - 🔭 Projetos na Vercel:  
-  [SuporteN1](https://suporte-n1v.vercel.app/) | [SupTecnico](https://sup-tecnico.vercel.app/)
+  <a href="https://suporte-n1v.vercel.app/" target="_blank">SuporteN1</a> | 
+  <a href="https://sup-tecnico.vercel.app/" target="_blank">SupTecnico</a>
 
 - 🌱 Conhecimentos em **Angular, Java, Spring Boot**
 
