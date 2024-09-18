@@ -11,7 +11,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/esley-leal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" /></a>
+  <a href="[https://linkedin.com/in/esley-leal](https://www.linkedin.com/in/esleyleal/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" /></a>
 </p>
 <p align="left">
 </p>
