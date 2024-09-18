@@ -13,9 +13,14 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/esleyleal/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" />
-  </a>
+  
+Meu proposito é alcançar uma posição de Sênior.
+
+Desde que ganhei meu primeiro computador aos 6 anos, desenvolvi uma paixão por tecnologia.
+Sou impulsionado a continuar crescendo na área todos os dias. Movido por desafios eu acredito que o trabalho duro, aliado a uma atitude positiva, são essenciais para o sucesso na vida pessoal e profissional.
+
+Sobre realizações: Tenho sempre buscado identificar possíveis problemas no meu dia a dia de trabalho, com o objetivo de resolvê-los, e com isso tenho dois projetos em produção que otimiza o processo de atendimento técnico e solicitações de atendimento.
+
 </p>
 
 <h3 align="left">Ferramentas:</h3>
