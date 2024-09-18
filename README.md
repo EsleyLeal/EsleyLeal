@@ -11,7 +11,7 @@
 
 - 📫 Como entrar em contato comigo **lealsantanati@gmail.com**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Sobre:</h3>
 <p align="left">
   
 Meu proposito é alcançar uma posição de Sênior.
@@ -19,7 +19,7 @@ Meu proposito é alcançar uma posição de Sênior.
 Desde que ganhei meu primeiro computador aos 6 anos, desenvolvi uma paixão por tecnologia.
 Sou impulsionado a continuar crescendo na área todos os dias. Movido por desafios eu acredito que o trabalho duro, aliado a uma atitude positiva, são essenciais para o sucesso na vida pessoal e profissional.
 
-Sobre realizações: Tenho sempre buscado identificar possíveis problemas no meu dia a dia de trabalho, com o objetivo de resolvê-los, e com isso tenho dois projetos em produção que otimiza o processo de atendimento técnico e solicitações de atendimento.
+Sobre realizações: Tenho sempre buscado identificar possíveis problemas no meu dia a dia de trabalho, com o objetivo de resolvê-los, e com isso tenho dois projetos em produção que otimiza o processo de atendimento técnico e solicitações de atendimento. <a href="https://suporte-n1v.vercel.app/" target="_blank">SuporteN1</a> | <a href="https://sup-tecnico.vercel.app/" target="_blank">SupTecnico</a>
 
 </p>
 
