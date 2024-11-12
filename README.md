@@ -5,7 +5,7 @@
   <a href="https://suporte-n1v.vercel.app/" target="_blank">SuporteN1</a> | 
   <a href="https://sup-tecnico.vercel.app/" target="_blank">SupTecnico</a>
 
-- 🌱 Conhecimentos em **Angular, Java, Spring Boot**
+- 🌱 Conhecimentos em **JavaScript, VueJS, Angular**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/EsleyLeal](https://github.com/EsleyLeal)
 
