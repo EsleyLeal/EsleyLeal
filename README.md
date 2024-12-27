@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Esley Leal, Desenvolvedor FullStack</h1>
+<h1 align="center">Oi 👋, Eu sou Esley Leal, Desenvolvedor Front-End</h1>
 <h3 align="center">Codificando o futuro</h3>
 
 - 🔭 Projetos na Vercel:  
