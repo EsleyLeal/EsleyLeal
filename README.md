@@ -1,4 +1,4 @@
-<h1 align="center">Analista de Redes | Network Operations | AWS | Docker | Python | Bash | Em Transição para DevOps</h1>
+<h1 align="center">Analista de Redes | Network Operations | AWS </h1>
 
 - Sempre buscando inovação, sou o responsável pela criação deste Toolkit de Serviços no NOC N1. https://www.linkedin.com/feed/update/urn:li:activity:7320784021615992832/
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/EsleyLeal](https://github.com/EsleyLeal)
@@ -8,12 +8,14 @@
 <h3 align="left">Sobre:</h3>
 <p align="left">
   
-Meu proposito é alcançar uma posição de Sênior.
+Desde os 6 anos, quando ganhei meu primeiro computador, meu interesse por tecnologia foi crescendo naturalmente. Hoje, atuo como Analista de Redes, motivado por desafios, dedicado e com experiência em operações de NOC. Tenho domínio na configuração de redes corporativas e habilidades em troubleshooting.
 
-Desde que ganhei meu primeiro computador aos 6 anos, desenvolvi uma paixão por tecnologia.
-Sou impulsionado a continuar crescendo na área todos os dias. Movido por desafios eu acredito que o trabalho duro, aliado a uma atitude positiva, são essenciais para o sucesso na vida pessoal e profissional.
+Acredito que trabalho duro, aprendizado contínuo e uma atitude positiva são a base para o sucesso profissional.
 
-Sobre realizações: Tenho sempre buscado identificar possíveis problemas no meu dia a dia de trabalho, com o objetivo de resolvê-los, e com isso tenho dois projetos em produção que otimiza o processo de atendimento técnico e solicitações de atendimento. <a href="https://suporte-n1v.vercel.app/" target="_blank">SuporteN1</a> | <a href="https://sup-tecnico.vercel.app/" target="_blank">SupTecnico</a>
+Minha visão sobre o mercado de tecnologia é que ele evolui de forma acelerada. A velocidade das mudanças exige que aprendamos a lidar com a volumetria de projetos e a constante atualização de conhecimentos. Por isso, mantenho uma mente aberta para pesquisa e uso de inteligência artificial, que hoje é essencial para um programador que deseja se destacar.
+
+ AWS Certification in Progress.
+
 
 </p>
 
