@@ -1,7 +1,7 @@
 <h1 align="center">Analista de TI </h1>
 
 - Sempre buscando inovação, sou o responsável pela criação deste Toolkit de Serviços no NOC. https://www.linkedin.com/feed/update/urn:li:activity:7320784021615992832/
-- Já imaginou ter um servidor de monitoramento completo configurado com um único comando? https://www.linkedin.com/posts/esleyleal_devops-sysadmin-zabbix-activity-7347371671860797440-h9kT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACqB3J8BjGmnxE7Fd7ITscAWmkd1BST6oDE
+- Já imaginou ter um servidor de monitoramento completo configurado com um único comando? [https://www.linkedin.com/posts/esleyleal_devops-sysadmin-zabbix-activity-7347371671860797440-h9kT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACqB3J8BjGmnxE7Fd7ITscAWmkd1BST6oDE](https://www.linkedin.com/feed/update/urn:li:activity:7347371671860797440/)
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/EsleyLeal](https://github.com/EsleyLeal)
 
 - 📫 Como entrar em contato comigo **lealsantanati@gmail.com**
