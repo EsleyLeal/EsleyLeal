@@ -1,7 +1,7 @@
 <h1 align="center">Analista de TI </h1>
 
-- Sempre buscando inovação, sou o responsável pela criação deste Toolkit de Serviços no NOC. https://www.linkedin.com/feed/update/urn:li:activity:7320784021615992832/
-- Já imaginou ter um servidor de monitoramento completo configurado com um único comando? https://www.linkedin.com/feed/update/urn:li:activity:7347371671860797440/
+- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7320784021615992832/" target="_blank" rel="noopener noreferrer">Sempre buscando inovação, sou o responsável pela criação deste Toolkit de Serviços no NOC.</a>
+- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7347371671860797440/" target="_blank" rel="noopener noreferrer">Já imaginou ter um servidor de monitoramento completo configurado com um único comando?</a>
 
 - 📫 Como entrar em contato comigo **lealsantanati@gmail.com**
 
