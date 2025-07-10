@@ -1,4 +1,4 @@
-<h1 align="center">Analista de TI | AWS </h1>
+<h1 align="center">Analista de TI </h1>
 
 - Sempre buscando inovação, sou o responsável pela criação deste Toolkit de Serviços no NOC N1. https://www.linkedin.com/feed/update/urn:li:activity:7320784021615992832/
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/EsleyLeal](https://github.com/EsleyLeal)
