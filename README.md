@@ -13,7 +13,7 @@ Desde os 6 anos, quando ganhei meu primeiro computador, meu interesse por tecnol
 
 Acredito que trabalho duro, aprendizado contínuo e uma atitude positiva são a base para o sucesso profissional.
 
-Minha visão sobre o mercado de tecnologia é que ele evolui de forma acelerada. A velocidade das mudanças exige que aprendamos a lidar com a volumetria de projetos e a constante atualização de conhecimentos. Por isso, mantenho uma mente aberta para pesquisa e uso de inteligência artificial, que hoje é essencial para um programador que deseja se destacar.
+Minha visão sobre o mercado de tecnologia é que ele evolui de forma acelerada. A velocidade das mudanças exige que aprendamos a lidar com a volumetria de projetos e a constante atualização de conhecimentos. Por isso, mantenho uma mente aberta para pesquisa e uso de inteligência artificial, que hoje é essencial para quem deseja se destacar.
 
  AWS Certification in Progress.
 
