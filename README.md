@@ -9,13 +9,11 @@
 <h3 align="left">Sobre:</h3>
 <p align="left">
   
-Desde os 6 anos, quando ganhei meu primeiro computador, meu interesse por tecnologia foi crescendo naturalmente. Hoje, atuo como Analista de Redes, motivado por desafios, dedicado e com experiência em operações de NOC. Tenho domínio na configuração de redes corporativas e habilidades em troubleshooting, programação, automação. Tudo isso mostra meu lado Analista de TI.
+Desde os 6 anos, quando ganhei meu primeiro computador, meu interesse por tecnologia vem crescendo continuamente. Atualmente, atuo como Analista de Redes, motivado por desafios, dedicado e com experiência em operações de NOC, configuração de redes corporativas e troubleshooting.
 
-Acredito que trabalho duro, aprendizado contínuo e uma atitude positiva são a base para o sucesso profissional.
+Minha paixão está na interseção de Cloud Computing, Network Computing e Cibersegurança, onde vejo um enorme potencial de inovação e crescimento.
 
-Minha visão sobre o mercado de tecnologia é que ele evolui de forma acelerada. A velocidade das mudanças exige que aprendamos a lidar com a volumetria de projetos e a constante atualização de conhecimentos. Por isso, mantenho uma mente aberta para pesquisa e uso de inteligência artificial, que hoje é essencial para quem deseja se destacar.
-
- AWS Certification in Progress.
+Para mim, evoluir na área de tecnologia significa estar sempre atualizado e usar de forma inteligente as inovações, sempre me moldando às necessidades do mercado.
 
 
 </p>
