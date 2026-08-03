@@ -1,98 +1,117 @@
 <h1 align="center">ESLEY LEAL SANTANA</h1>
 
 <p align="center">
-Analista de Redes • NOC • Observabilidade • Infraestrutura • Automação
+Analista de Redes NOC • Observabilidade • Infraestrutura • Automação • Segurança de Redes
+</p>
+
+<p align="center">
+  <a href="https://esleylealportfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-esleylealportfolio.vercel.app-0A66C2?style=for-the-badge" alt="Portfólio"/>
+  </a>
+  <a href="mailto:lealsantanati@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-lealsantanati%40gmail.com-EA4335?style=for-the-badge" alt="E-mail"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre
 
-Analista de Redes e Operações em TI com atuação em **NOC**, **Observabilidade**, **Infraestrutura de Redes** e **Troubleshooting**.
+Sou **Analista de Redes NOC**, com experiência em monitoramento, observabilidade, infraestrutura, telecomunicações e troubleshooting de ambientes de rede.
 
-Desde os 6 anos, quando tive meu primeiro contato com um computador, a tecnologia passou a fazer parte da minha vida. Com o tempo, essa curiosidade se transformou em profissão e hoje atuo apoiando operações de redes, monitoramento, configuração de ambientes corporativos e resolução de incidentes.
+Atuo na identificação e no tratamento de incidentes envolvendo redes **LAN/WAN, PON/FTTH, backbone, L2/L3 e VoIP**, utilizando ferramentas como **PRTG, Grafana, Zabbix, Linux e Docker**.
 
-Nos últimos anos, desenvolvi projetos voltados para melhoria operacional, centralização de informações, observabilidade, automação e padronização de processos dentro do NOC, sempre buscando aumentar a eficiência e reduzir o tempo de resposta das equipes.
+Também desenvolvo soluções para melhorar a operação do NOC, conectando **automação, centralização de informações, gestão de incidentes, documentação e padronização de processos**.
+
+Atualmente, direciono meu desenvolvimento para **Cybersecurity**, com interesse em **Segurança de Redes, SOC e Blue Team**. Meu objetivo é unir minha experiência em redes, observabilidade, análise de alertas e resposta a incidentes ao desenvolvimento de conhecimentos em **análise de logs, SIEM e detecção de ameaças**.
+
+---
 
 ## 🚀 Projetos em Produção
 
-Em menos de **3 anos**, desenvolvi e coloquei em produção soluções voltadas para desafios reais da operação.
+Em menos de **3 anos**, desenvolvi três soluções utilizadas para apoiar desafios reais da operação do NOC.
 
 ### 🔹 NOCFlow
 
-Projeto desenvolvido para apoiar o fluxo operacional do NOC, centralizando processos, informações e atividades importantes para o acompanhamento da operação.
+Central operacional criada para reunir consultas de circuitos, contatos, ferramentas, comunicados, comandos, scripts, modelos e materiais técnicos.
+
+O projeto também integra alertas do **Zabbix ao Microsoft Teams por webhook**, enriquecendo eventos com informações de apoio para agilizar o acionamento e a resposta a incidentes.
 
 🔗 [Ver publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7478979549892997120/)
 
 ### 🔹 NOC Outage
 
-Solução criada para auxiliar no registro, acompanhamento e organização de incidentes e indisponibilidades identificadas durante a operação.
+Aplicação voltada ao registro, acompanhamento e auditoria de indisponibilidades, rompimentos, manutenções emergenciais e outros eventos com impacto operacional.
+
+A solução padroniza informações como protocolo, prioridade, status, responsável, histórico, conclusão e RFO, aumentando a rastreabilidade dos incidentes.
 
 🔗 [Ver publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7480253778798034945/)
 
 ### 🔹 Toolkit de Ativação de Serviços
 
-Ferramenta desenvolvida para apoiar e padronizar a ativação de serviços, centralizando informações e facilitando o trabalho da equipe operacional.
+Ferramenta desenvolvida para centralizar formulários, consultas, mensagens padrão e fluxos de ativação de serviços.
+
+O projeto reduz a troca de telas, o retrabalho e o risco de inconsistências nos registros operacionais.
 
 🔗 [Ver publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7320784021615992832/)
 
+Esses projetos representam minha forma de trabalhar: compreender problemas reais da operação e transformá-los em soluções práticas, úteis, escaláveis e orientadas à melhoria contínua.
+
+---
+
+## 🧪 Laboratório e Evolução Técnica
+
 ### 🔹 Servidor de Monitoramento
 
-Ambiente de monitoramento desenvolvido para simplificar a implantação de uma estrutura completa de observabilidade, permitindo sua configuração de forma rápida e automatizada.
+Ambiente desenvolvido para simplificar a implantação de uma estrutura de observabilidade, reunindo componentes de monitoramento e infraestrutura em um processo mais rápido e automatizado.
 
 🔗 [Ver publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7347371671860797440/)
 
-Esses projetos representam minha forma de trabalhar: compreender problemas reais da operação e transformá-los em soluções práticas, úteis, escaláveis e de alto impacto para o dia a dia das equipes.
+---
 
-## 🎯 Interesses
+## 🎯 Direcionamento Profissional
 
-Tenho interesse contínuo em:
+Busco continuar evoluindo nas áreas de:
 
-- Infraestrutura de Redes
-- Observabilidade
-- Automação
-- Cloud Computing
-- Cibersegurança
-- Melhoria de Processos
+- Operações de Rede e NOC
+- Infraestrutura e Telecomunicações
+- Observabilidade e Monitoramento
+- Automação Operacional
+- Segurança de Redes
+- Cybersecurity, SOC e Blue Team
+- Análise e Resposta a Incidentes
+- Melhoria e Padronização de Processos
 
-Acredito que evoluir em tecnologia significa combinar aprendizado contínuo, visão prática e capacidade de adaptação às necessidades do mercado.
+Minha proposta profissional é conectar a base construída em **redes, monitoramento e incidentes** com práticas de segurança voltadas à proteção, visibilidade e resiliência dos ambientes de TI.
+
+---
+
+## 🛠️ Competências Técnicas
+
+### Redes e Operações
+
+`NOC` `LAN/WAN` `PON/FTTH` `Backbone` `PPPoE` `VLAN` `STP` `OSPF` `BGP` `MPLS` `SIP/VoIP` `Troubleshooting L2/L3`
+
+### Observabilidade e Infraestrutura
+
+`PRTG` `Grafana` `Zabbix` `Linux` `Docker` `Portainer` `Alertas` `Métricas` `Dashboards` `Gestão de Incidentes`
+
+### Automação e Desenvolvimento
+
+`Python` `Shell Script` `APIs` `Webhooks` `JavaScript` `TypeScript` `PHP` `Laravel` `Vue.js` `Node.js` `MySQL` `Git`
+
+### Cybersecurity em Desenvolvimento
+
+`Segurança de Redes` `SOC` `Blue Team` `Análise de Logs` `SIEM` `Detecção de Ameaças` `Resposta a Incidentes`
 
 ---
 
 ## 🌎 Atualmente
 
-- 📚 Desenvolvendo minha jornada no inglês
+- 📚 Desenvolvendo meu inglês técnico e profissional
+- 🛡️ Aprofundando conhecimentos em Segurança de Redes, SOC e Blue Team
 - 🌐 Portfólio: [esleylealportfolio.vercel.app](https://esleylealportfolio.vercel.app)
 - 📫 E-mail: **lealsantanati@gmail.com**
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
 
 ---
 
