@@ -17,15 +17,9 @@ Analista de Redes NOC • Observabilidade • Infraestrutura • Automação •
 
 ## 👨‍💻 Sobre
 
-Sou **Analista de Redes NOC**, com experiência em monitoramento, observabilidade, infraestrutura, telecomunicações e troubleshooting de ambientes de rede.
-
-Atuo na identificação e no tratamento de incidentes envolvendo redes **LAN/WAN, PON/FTTH, backbone, L2/L3 e VoIP**, utilizando ferramentas como **PRTG, Grafana, Zabbix, Linux e Docker**.
-
-Também desenvolvo soluções para melhorar a operação do NOC, conectando **automação, centralização de informações, gestão de incidentes, documentação e padronização de processos**.
-
-Atualmente, direciono meu desenvolvimento para **Cybersecurity**, com interesse em **Segurança de Redes, SOC e Blue Team**. Meu objetivo é unir minha experiência em redes, observabilidade, análise de alertas e resposta a incidentes ao desenvolvimento de conhecimentos em **análise de logs, SIEM e detecção de ameaças**.
-
----
+Sou profissional de TI formado em **Sistemas para Internet**.  
+Hoje trabalho como **Analista de Redes NOC N2**, com monitoramento, diagnóstico de falhas, troubleshooting e suporte à operação.  
+Uso **Zabbix, Grafana, PRTG, Linux, Docker** e equipamentos de diferentes fabricantes.
 
 ## 🚀 Projetos em Produção
 
