@@ -1,7 +1,7 @@
 <h1 align="center">ESLEY LEAL SANTANA</h1>
 
 <p align="center">
-Analista de Redes NOC • Observabilidade • Infraestrutura • Automação • Segurança de Redes
+Infraestrutura e Operações de TI | Redes e Monitoramento | Automação e Integrações | Python e Linux
 </p>
 
 <p align="center">
